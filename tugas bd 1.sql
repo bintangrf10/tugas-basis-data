@@ -1,0 +1,2 @@
+CREATE DATABASE si02real;
+DROP DATABASE si02real;
